@@ -1,0 +1,11 @@
+﻿  ConsoleSnake.cpp
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(60,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(200,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(200,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(206,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(207,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(275,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(355,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(717,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\ConsoleSnake.cpp(729,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  ConsoleSnake.vcxproj -> C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\x64\Debug\ConsoleSnake.exe

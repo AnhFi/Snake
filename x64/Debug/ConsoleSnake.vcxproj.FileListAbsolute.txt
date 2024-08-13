@@ -1,0 +1,6 @@
+C:\Users\Anh Phi\Desktop\ConsoleSnake\x64\Debug\ConsoleSnake.vcxproj.CopyComplete
+C:\Users\Anh Phi\Desktop\ConsoleSnake\x64\Debug\ConsoleSnake.exe
+C:\Users\Anh Phi\Desktop\ConsoleSnake\x64\Debug\raylib.dll
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\x64\Debug\ConsoleSnake.vcxproj.CopyComplete
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\x64\Debug\ConsoleSnake.exe
+C:\Users\Anh Phi\Desktop\ConsoleSnake\Snake\x64\Debug\raylib.dll
